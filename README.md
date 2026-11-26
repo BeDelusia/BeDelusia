@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Expo-243B53?style=for-the-badge&logo=expo&logoColor=C6A15B" alt="Expo" />
 <img src="https://img.shields.io/badge/Supabase-243B53?style=for-the-badge&logo=supabase&logoColor=C6A15B" alt="Supabase" />
 <img src="https://img.shields.io/badge/HTML5-243B53?style=for-the-badge&logo=html5&logoColor=C6A15B" alt="HTML5" />
-<img src="https://img.shields.io/badge/Claude-243B53?style=for-the-badge&logo=claude&logoColor=C6A15B" alt="Claude" />
+
 
 </div>
 
