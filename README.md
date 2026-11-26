@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&height=220&color=0:1A2E43,100:243B53&section=header&text=BeDelusia&fontSize=64&fontColor=E6CC92&fontAlignY=30&desc=%ED%98%88%EB%8B%B9%20%EA%B8%B0%EB%A1%9D%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%9C%EB%8A%94%20%EC%95%88%EC%8B%AC%20%EC%99%B8%EC%8B%9D%20%EC%A7%80%EB%8F%84&descSize=18&descAlignY=47&descColor=D9E2EC&animation=fadeIn" width="100%" alt="BeDelusia" />
+<img src="assets/banner.png" width="100%" alt="BeDelusia" />
+
+**혈당 기록으로 만드는 안심 외식 지도**
 
 <a href="https://github.com/BeDelusia">
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=500&size=20&duration=3000&pause=1000&color=C6A15B&center=true&vCenter=true&width=520&lines=%ED%98%88%EB%8B%B9%EB%A7%B5%EC%9D%84+%EB%A7%8C%EB%93%A4%EA%B3%A0+%EC%9E%88%EC%96%B4%EC%9A%94;%EC%95%B1%EC%9D%84+%ED%95%98%EB%82%98%EC%94%A9+%EC%A7%93%EB%8A%94+%EC%A4%91" alt="혈당맵을 만들고 있어요 · 앱을 하나씩 짓는 중" />
